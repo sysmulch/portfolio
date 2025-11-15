@@ -8,8 +8,6 @@ permalink: /
 
 # Ravi Murugesan
 
-<img style="float: right; max-width: 30%; margin-left:15px;" src="images/Ravi_Badge.png">
-
 Library Coordinator & Technical Communicator
 {: .fs-6 .fw-300}
 
