@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training Outlines
-nav_order: 3
+nav_order: 
 has_children: false
 ---
 
