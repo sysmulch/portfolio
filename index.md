@@ -11,7 +11,9 @@ permalink: /
 Library Coordinator & Technical Communicator
 {: .fs-6 .fw-300}
 
-I work as the public services coordinator in the science and engineering libraries at Princeton University. I also teach, remotely, a summer course in technical communication at Kyushu University. This site contains a portfolio I developed near the end of 2024.
+I work as the public services coordinator in the science and engineering libraries at Princeton University. I also teach a summer course in technical communication at Kyushu University. This site contains my portfolio, which I use primarily for teaching and demonstration.
+
+<img src="images/Photo2025.jpg" style="float: right;">
 
 [My LinkedIn profile](https://www.linkedin.com/in/ravimurugesan/).
 
