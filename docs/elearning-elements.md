@@ -11,7 +11,7 @@ has_children: false
 
 The AuthorAID online course in research writing is the flagship course offered by INASP, with thousands of learners taking the course every year. I developed the course on INASP's LMS (learning management system) with a mix of instructional resources and learning activities. For example, in the second unit of this course, participants learn about research ethics by going through instructional resources, taking a quiz, sharing their reflections on ethics, and giving peer feedback on others' reflections. Participants can also interact with each other on a discussion forum.
 
-[Screenshot of the unit on research ethics](/docs/LMS-course-unit.jpg)
+[Screenshot of the unit on research ethics](docs/LMS-course-unit.jpg)
 
 ### Interactive Learning Resource
 
@@ -27,4 +27,4 @@ As the site administrator of INASP's LMS, I designed a dashboard that users woul
 - A custom HTML block with a few tips for users
 - Visual links to add some color to the page
 
-[Screenshot of the dashboard](/docs/LMS-dashboard.jpg)
+[Screenshot of the dashboard](docs/LMS-dashboard.jpg)
