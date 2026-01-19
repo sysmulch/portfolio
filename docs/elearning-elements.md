@@ -7,17 +7,11 @@ has_children: false
 
 # E-learning Elements
 
-## A Unit on Research Ethics
+## Online Course in Scientific Writing
 
-When I was affiliated with INASP, an international development organization, I developed and maintained an online course in research writing for many years. I developed this course with a mix of instructional resources and learning activities. For example, in the second unit of this course, participants learn about research ethics by going through instructional resources, taking a quiz, sharing their reflections on ethics, and giving peer feedback on others' reflections. Participants can also interact with each other on a discussion forum.
+When I was affiliated with INASP, an international development organization, I developed and maintained an online course in scientific writing for many years. I developed this course with a mix of instructional resources and learning activities. For example, in the second unit of this course, participants learn about research ethics by going through instructional resources, taking a quiz, sharing their reflections on ethics, and giving peer feedback on others' reflections. Participants can also interact with each other on a discussion forum.
 
 [Screenshot of the unit on research ethics](../../images/LMS-course-unit.jpg)
-
-### Interactive Learning Resource
-
-To develop the instructional resources in the course, I used an authoring tool called H5P. I like to use many of the interactive content types that are built into H5P, such as "single-choice set," a set of questions that are shown one by one to the learner. In one of the resources in the research ethics unit, I created a single-choice set of questions about ethical violations in research. Here is a screencast showing the user experience:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Owyt_rVK7OM?si=fzI3mnFFSQK7zb3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## LMS Dashboard
 
