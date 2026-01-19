@@ -9,9 +9,9 @@ has_children: false
 
 ## A Unit on Research Ethics
 
-The AuthorAID online course in research writing is the flagship course offered by INASP, with thousands of learners taking the course every year. I developed the course on INASP's LMS (learning management system) with a mix of instructional resources and learning activities. For example, in the second unit of this course, participants learn about research ethics by going through instructional resources, taking a quiz, sharing their reflections on ethics, and giving peer feedback on others' reflections. Participants can also interact with each other on a discussion forum.
+When I was affiliated with INASP, an international development organization, I developed and maintained an online course in research writing for many years. I developed this course with a mix of instructional resources and learning activities. For example, in the second unit of this course, participants learn about research ethics by going through instructional resources, taking a quiz, sharing their reflections on ethics, and giving peer feedback on others' reflections. Participants can also interact with each other on a discussion forum.
 
-[Screenshot of the unit on research ethics](../images/LMS-course-unit.jpg)
+[Screenshot of the unit on research ethics](../../images/LMS-course-unit.jpg)
 
 ### Interactive Learning Resource
 
@@ -21,10 +21,10 @@ To develop the instructional resources in the course, I used an authoring tool c
 
 ## LMS Dashboard
 
-As the site administrator of INASP's LMS, I designed a dashboard that users would see upon signing in. This LMS is built with the open source Moodle application, and I had to work with the features and constraints of this application. I also wanted to keep the dashboard simple enough and relevant enough for the 100K users on the site. So this is what I added:
+When I was the site administrator of INASP's LMS (learning management system), I designed a dashboard that users would see upon signing in. This LMS is built with the open source Moodle application, and I had to work with the features and constraints of this application. I also wanted to keep the dashboard simple enough and relevant enough for the 100K users on the site. So this is what I added:
 
 - An Upcoming Events block to alert users to any upcoming events or deadlines
 - A custom HTML block with a few tips for users
 - Visual links to add some color to the page
 
-[Screenshot of the dashboard](../images/LMS-dashboard.jpg)
+[Screenshot of the dashboard](../../images/LMS-dashboard.jpg)
